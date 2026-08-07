@@ -1,5 +1,5 @@
 /*
-Tile Master
+Tile Master!
     Shape placing game where you earn points by placing shapes on a board. The game ends when the board is full or the player chooses to quit.
 Made by: Khadijah and Dushvanth
 */
