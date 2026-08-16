@@ -1,4 +1,4 @@
-//this class holds all the templates of the shapes and their colours!
+ //this class holds all the templates of the shapes and their colours!
 package Game;
 
 public class Shape{

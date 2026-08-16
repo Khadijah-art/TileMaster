@@ -1,4 +1,4 @@
-//this class works with the board and its points map alongside helping place a shape!
+//this class works with the board and its points map alongside helping place a shape! 
 package Game;
 import Game.Shape;
 import java.util.ArrayList;
